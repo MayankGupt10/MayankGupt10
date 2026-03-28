@@ -1,5 +1,19 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&height=60&lines=Hey+there!+I'm+Mayank+%F0%9F%91%8B;Data+Science+%26+ML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;260%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Turning+Data+into+Decisions+%F0%9F%93%8A)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 # 💫 About Me:
 🔭 I'm currently working on — Developing ML models for real-world prediction problems and analyzing datasets to uncover actionable insights<br>👯 I'm looking to collaborate on — Data Science, Machine Learning, or Full-Stack projects that solve real-world problems<br>🤝 I'm looking for help with — Advanced Data Engineering pipelines and cloud-based data architectures<br>🌱 I'm currently learning — Data Engineering, Cloud Computing (AWS), and advanced SQL optimization<br>💬 Ask me about — Python, Machine Learning, Data Visualization, Power BI, or C++ DSA<br>⚡ Fun fact — I've solved 260+ LeetCode problems, earned a 4-star HackerRank rating, and once ranked 6th out of 150+ teams in an UpGrad Hackathon!
+
+<br clear="right"/>
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank8) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://mayanks-portfolio-d5sw.onrender.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mayankgupta0619@gmail.com)
@@ -20,5 +34,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MayankGupt10&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=120&section=footer&text=Turning+Data+into+Real-World+Solutions+%F0%9F%9A%80&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
